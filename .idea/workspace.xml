@@ -1,0 +1,813 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2ef45e3-1698-41ff-8fa3-c7203a5ef87a" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Page Monitor" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Master.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xeno/Master.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="22" />
+              <folding>
+                <element signature="e#468#3103#0" expanded="false" />
+                <element signature="e#512#860#0" expanded="false" />
+                <element signature="e#924#1486#0" expanded="false" />
+                <element signature="e#1560#2114#0" expanded="false" />
+                <element signature="e#2174#3103#0" expanded="false" />
+                <element signature="e#3131#6540#0" expanded="false" />
+                <element signature="e#3172#3310#0" expanded="false" />
+                <element signature="e#3352#3924#0" expanded="false" />
+                <element signature="e#3955#4243#0" expanded="false" />
+                <element signature="e#4287#4703#0" expanded="false" />
+                <element signature="e#4756#5539#0" expanded="false" />
+                <element signature="e#5587#6093#0" expanded="false" />
+                <element signature="e#6140#6540#0" expanded="false" />
+                <element signature="e#6611#6780#0" expanded="false" />
+                <element signature="e#6831#7599#0" expanded="false" />
+                <element signature="e#7650#7754#0" expanded="false" />
+                <element signature="e#7804#7899#0" expanded="false" />
+                <element signature="e#7940#8389#0" expanded="false" />
+                <element signature="e#8430#8616#0" expanded="false" />
+                <element signature="e#8667#10609#0" expanded="false" />
+                <element signature="e#10666#10776#0" expanded="false" />
+                <element signature="e#10863#12099#0" expanded="false" />
+                <element signature="e#12189#13114#0" expanded="false" />
+                <element signature="e#13199#14217#0" expanded="false" />
+                <element signature="e#14299#15365#0" expanded="false" />
+                <element signature="e#15432#16542#0" expanded="false" />
+                <element signature="e#16638#17819#0" expanded="false" />
+                <element signature="e#17932#19439#0" expanded="false" />
+                <element signature="e#19539#20779#0" expanded="false" />
+                <element signature="e#20875#22276#0" expanded="false" />
+                <element signature="e#22311#34862#0" expanded="false" />
+                <element signature="e#22332#22567#0" expanded="false" />
+                <element signature="e#22604#22801#0" expanded="false" />
+                <element signature="e#22855#23023#0" expanded="false" />
+                <element signature="e#23064#23225#0" expanded="false" />
+                <element signature="e#23263#24823#0" expanded="false" />
+                <element signature="e#24869#25591#0" expanded="false" />
+                <element signature="e#25638#26339#0" expanded="false" />
+                <element signature="e#26378#26650#0" expanded="false" />
+                <element signature="e#26708#27475#0" expanded="false" />
+                <element signature="e#27518#28746#0" expanded="false" />
+                <element signature="e#28783#29120#0" expanded="false" />
+                <element signature="e#29157#29183#0" expanded="false" />
+                <element signature="e#29230#30025#0" expanded="false" />
+                <element signature="e#30062#30149#0" expanded="false" />
+                <element signature="e#30185#30303#0" expanded="false" />
+                <element signature="e#30346#30854#0" expanded="false" />
+                <element signature="e#30903#34165#0" expanded="false" />
+                <element signature="e#34212#34402#0" expanded="false" />
+                <element signature="e#34450#34487#0" expanded="false" />
+                <element signature="e#34538#34862#0" expanded="false" />
+                <element signature="e#34891#36998#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Monitors.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xeno/Monitors.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="373" column="196" lean-forward="false" selection-start-line="373" selection-start-column="196" selection-end-line="373" selection-end-column="196" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#451#1596#0" expanded="false" />
+                <element signature="e#1703#6502#0" expanded="false" />
+                <element signature="e#6740#11228#0" expanded="false" />
+                <element signature="e#11466#15412#0" expanded="false" />
+                <element signature="e#15620#20454#0" expanded="false" />
+                <element signature="e#20522#22679#0" expanded="false" />
+                <element signature="e#22731#25432#0" expanded="false" />
+                <element signature="e#25468#27683#0" expanded="false" />
+                <element signature="e#27720#30866#0" expanded="false" />
+                <element signature="e#30922#33991#0" expanded="false" />
+                <element signature="e#34051#34413#0" expanded="false" />
+                <element signature="e#34481#35560#0" expanded="false" />
+                <element signature="e#35649#37777#0" expanded="false" />
+                <element signature="e#37875#40884#0" expanded="false" />
+                <element signature="e#40966#43434#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MonitorSites.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xeno/MonitorSites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4695">
+              <caret line="318" column="125" lean-forward="false" selection-start-line="318" selection-start-column="125" selection-end-line="318" selection-end-column="125" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Shopify.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Xeno/Shopify.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+              <folding>
+                <element signature="e#3165#3527#0" expanded="false" />
+                <element signature="e#3595#4674#0" expanded="false" />
+                <element signature="e#4763#6891#0" expanded="false" />
+                <element signature="e#6989#10050#0" expanded="false" />
+                <element signature="e#10132#12586#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Test.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Xeno/Test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2220">
+              <caret line="148" column="12" lean-forward="false" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="12" />
+              <folding>
+                <element signature="e#1#12#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>self.savedImages</find>
+      <find>self.sentLinks</find>
+      <find>self.stockXnames</find>
+      <find>writepythonFile</find>
+      <find>return</find>
+      <find>norma</find>
+      <find>ssense</find>
+      <find>/product/altuzarra-az-0004-sunglasses-505387001.html</find>
+      <find>https://www.ssense.com/en-us/men/product/adidas-originals/beige-ultraboost-laceless-sneakers/2427008</find>
+      <find>product/adidas-originals/beige-ultraboost-laceless-sneakers/2427008</find>
+      <find>https://www.susi.it/it-IT/uomo/scarpe/sneaker/scarpa-saucony-shadow/</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Xeno/checkForUpdate.py" />
+        <option value="$PROJECT_DIR$/Xeno/esentalFunctions.py" />
+        <option value="$PROJECT_DIR$/Xeno/textLink.py" />
+        <option value="$PROJECT_DIR$/Xeno/UShopify.py" />
+        <option value="$PROJECT_DIR$/Xeno/masterFile.py" />
+        <option value="$PROJECT_DIR$/Xeno/regularSites.py" />
+        <option value="$PROJECT_DIR$/Xeno/monitor.py" />
+        <option value="$PROJECT_DIR$/Xeno/shopifyTest.py" />
+        <option value="$PROJECT_DIR$/Xeno/shopSites2.py" />
+        <option value="$PROJECT_DIR$/Xeno/Rock-city-kicks.out" />
+        <option value="$PROJECT_DIR$/Xeno/bows-and-arrows-berkeley.out" />
+        <option value="$PROJECT_DIR$/Xeno/BBC.out" />
+        <option value="$PROJECT_DIR$/Xeno/Trophy-room.out" />
+        <option value="$PROJECT_DIR$/Xeno/Sole-stop.out" />
+        <option value="$PROJECT_DIR$/Xeno/outClear.py" />
+        <option value="$PROJECT_DIR$/Xeno/goodasgold.out" />
+        <option value="$PROJECT_DIR$/Xeno/kith.out" />
+        <option value="$PROJECT_DIR$/Xeno/Feature-sneaker.out" />
+        <option value="$PROJECT_DIR$/Xeno/exclucity.out" />
+        <option value="$PROJECT_DIR$/Xeno/dope-factory.out" />
+        <option value="$PROJECT_DIR$/Xeno/dipstreet.out" />
+        <option value="$PROJECT_DIR$/Xeno/Bdga-store.out" />
+        <option value="$PROJECT_DIR$/Xeno/renarts.out" />
+        <option value="$PROJECT_DIR$/Xeno/deadstock.out" />
+        <option value="$PROJECT_DIR$/Xeno/Shop-Nice-Kicks.out" />
+        <option value="$PROJECT_DIR$/Xeno/ShopifySites.py" />
+        <option value="$PROJECT_DIR$/footpatrol-300000.out" />
+        <option value="$PROJECT_DIR$/footpatrol-450000.out" />
+        <option value="$PROJECT_DIR$/footpatrol-35000.out" />
+        <option value="$PROJECT_DIR$/size-30000.out" />
+        <option value="$PROJECT_DIR$/Xeno/PIDgather.py" />
+        <option value="$PROJECT_DIR$/Xeno/footpatrol-pids.out" />
+        <option value="$PROJECT_DIR$/Xeno/test-pids.out" />
+        <option value="$PROJECT_DIR$/Xeno/text.out" />
+        <option value="$PROJECT_DIR$/Xeno/ScraperSites.py" />
+        <option value="$PROJECT_DIR$/Xeno/StockPrice.py" />
+        <option value="$PROJECT_DIR$/Xeno/TwitterDMlistener.py" />
+        <option value="$PROJECT_DIR$/Xeno/Check.py" />
+        <option value="$PROJECT_DIR$/Xeno/MonitorSites2.py" />
+        <option value="$PROJECT_DIR$/Xeno/brandshop.out" />
+        <option value="$PROJECT_DIR$/Xeno/Master.py" />
+        <option value="$PROJECT_DIR$/Xeno/Scrapers.py" />
+        <option value="$PROJECT_DIR$/Xeno/wniowenf.out" />
+        <option value="$PROJECT_DIR$/Xeno/SeleniumScraper.py" />
+        <option value="$PROJECT_DIR$/Xeno/OldWebsiteFunctions.py" />
+        <option value="$PROJECT_DIR$/Xeno/GoodToGoFunctions.py" />
+        <option value="$PROJECT_DIR$/Xeno/Shopify.py" />
+        <option value="$PROJECT_DIR$/Xeno/Monitors.py" />
+        <option value="$PROJECT_DIR$/Xeno/Test.py" />
+        <option value="$PROJECT_DIR$/Xeno/MonitorSites.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+          <State>
+            <id>RELAX NG</id>
+          </State>
+          <State>
+            <id>RegExp</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyProtectedMemberInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Page Monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Page Monitor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Page Monitor" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Page Monitor" type="462c0819:PsiDirectoryNode" />
+              <item name="Xeno" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.TEST">
+    <configuration name="Check" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/Check.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="ScraperSites" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/ScraperSites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="SeleniumTest" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/SeleniumScraper.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="TEST" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/Test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Xeno - Shopify Sites" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/ShopifySites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Xeno - Shopify" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/Shopify.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Xeno" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/Master.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="outClear" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/.virtualenvs/venv/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Xeno" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Xeno/outClear.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Page Monitor" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;.&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="8">
+      <item index="0" class="java.lang.String" itemvalue="Python.Xeno" />
+      <item index="1" class="java.lang.String" itemvalue="Python.outClear" />
+      <item index="2" class="java.lang.String" itemvalue="Python.SeleniumTest" />
+      <item index="3" class="java.lang.String" itemvalue="Python.TEST" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Check" />
+      <item index="5" class="java.lang.String" itemvalue="Python.ScraperSites" />
+      <item index="6" class="java.lang.String" itemvalue="Python.Xeno - Shopify" />
+      <item index="7" class="java.lang.String" itemvalue="Python.Xeno - Shopify Sites" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.Xeno - Shopify Sites" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2ef45e3-1698-41ff-8fa3-c7203a5ef87a" name="Default" comment="" />
+      <created>1491505407691</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1491505407691</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28259337" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2962515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2496318" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32935917" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39897698" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.32" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294025" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32994187" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Xeno/Allike-Store.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/solebox.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/runcolors.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/BSTN-store.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/novoidplus.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Starcow-Paris.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Hit-the-Spot.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/lebuzzsneakershop.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/levelshoes.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/labelsfashion.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/monar.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/clickskicks.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/oneblockdown.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/outClear.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/Sneakers-76.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/unotrestore.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Avenue-Store.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Afew-Store.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/glueckstreter.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/kasina.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/f-o-u-r.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/MR-PORTER.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/brandshop.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/TEST.jpg" />
+    <entry file="file://$PROJECT_DIR$/Xeno/1.png" />
+    <entry file="file://$PROJECT_DIR$/Xeno/7.png" />
+    <entry file="file://$PROJECT_DIR$/Xeno/6.png" />
+    <entry file="file://$PROJECT_DIR$/Xeno/5.png" />
+    <entry file="file://$PROJECT_DIR$/Xeno/4.png" />
+    <entry file="file://$PROJECT_DIR$/Xeno/TEST.png" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Size?.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Footpatrol.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/SSemse.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/SSense.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/wniowenf.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/jp--adidas-original.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/jp--nikelab-dsm-ldn-footwear.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/-adidas-consortium-317?limit=all.out" />
+    <entry file="file://$PROJECT_DIR$/Xeno/SeleniumScraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/OldWebsiteFunctions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="380" column="0" lean-forward="true" selection-start-line="380" selection-start-column="0" selection-end-line="380" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/GoodToGoFunctions.py" />
+    <entry file="file://$PROJECT_DIR$/Xeno/MonitorSites2.py" />
+    <entry file="file://$PROJECT_DIR$/Xeno/Scrapers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="163" column="96" lean-forward="false" selection-start-line="163" selection-start-column="96" selection-end-line="163" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/Master.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="28" column="22" lean-forward="false" selection-start-line="28" selection-start-column="6" selection-end-line="28" selection-end-column="22" />
+          <folding>
+            <element signature="e#468#3103#0" expanded="false" />
+            <element signature="e#512#860#0" expanded="false" />
+            <element signature="e#924#1486#0" expanded="false" />
+            <element signature="e#1560#2114#0" expanded="false" />
+            <element signature="e#2174#3103#0" expanded="false" />
+            <element signature="e#3131#6540#0" expanded="false" />
+            <element signature="e#3172#3310#0" expanded="false" />
+            <element signature="e#3352#3924#0" expanded="false" />
+            <element signature="e#3955#4243#0" expanded="false" />
+            <element signature="e#4287#4703#0" expanded="false" />
+            <element signature="e#4756#5539#0" expanded="false" />
+            <element signature="e#5587#6093#0" expanded="false" />
+            <element signature="e#6140#6540#0" expanded="false" />
+            <element signature="e#6611#6780#0" expanded="false" />
+            <element signature="e#6831#7599#0" expanded="false" />
+            <element signature="e#7650#7754#0" expanded="false" />
+            <element signature="e#7804#7899#0" expanded="false" />
+            <element signature="e#7940#8389#0" expanded="false" />
+            <element signature="e#8430#8616#0" expanded="false" />
+            <element signature="e#8667#10609#0" expanded="false" />
+            <element signature="e#10666#10776#0" expanded="false" />
+            <element signature="e#10863#12099#0" expanded="false" />
+            <element signature="e#12189#13114#0" expanded="false" />
+            <element signature="e#13199#14217#0" expanded="false" />
+            <element signature="e#14299#15365#0" expanded="false" />
+            <element signature="e#15432#16542#0" expanded="false" />
+            <element signature="e#16638#17819#0" expanded="false" />
+            <element signature="e#17932#19439#0" expanded="false" />
+            <element signature="e#19539#20779#0" expanded="false" />
+            <element signature="e#20875#22276#0" expanded="false" />
+            <element signature="e#22311#34862#0" expanded="false" />
+            <element signature="e#22332#22567#0" expanded="false" />
+            <element signature="e#22604#22801#0" expanded="false" />
+            <element signature="e#22855#23023#0" expanded="false" />
+            <element signature="e#23064#23225#0" expanded="false" />
+            <element signature="e#23263#24823#0" expanded="false" />
+            <element signature="e#24869#25591#0" expanded="false" />
+            <element signature="e#25638#26339#0" expanded="false" />
+            <element signature="e#26378#26650#0" expanded="false" />
+            <element signature="e#26708#27475#0" expanded="false" />
+            <element signature="e#27518#28746#0" expanded="false" />
+            <element signature="e#28783#29120#0" expanded="false" />
+            <element signature="e#29157#29183#0" expanded="false" />
+            <element signature="e#29230#30025#0" expanded="false" />
+            <element signature="e#30062#30149#0" expanded="false" />
+            <element signature="e#30185#30303#0" expanded="false" />
+            <element signature="e#30346#30854#0" expanded="false" />
+            <element signature="e#30903#34165#0" expanded="false" />
+            <element signature="e#34212#34402#0" expanded="false" />
+            <element signature="e#34450#34487#0" expanded="false" />
+            <element signature="e#34538#34862#0" expanded="false" />
+            <element signature="e#34891#36998#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/Monitors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="373" column="196" lean-forward="false" selection-start-line="373" selection-start-column="196" selection-end-line="373" selection-end-column="196" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+            <element signature="e#451#1596#0" expanded="false" />
+            <element signature="e#1703#6502#0" expanded="false" />
+            <element signature="e#6740#11228#0" expanded="false" />
+            <element signature="e#11466#15412#0" expanded="false" />
+            <element signature="e#15620#20454#0" expanded="false" />
+            <element signature="e#20522#22679#0" expanded="false" />
+            <element signature="e#22731#25432#0" expanded="false" />
+            <element signature="e#25468#27683#0" expanded="false" />
+            <element signature="e#27720#30866#0" expanded="false" />
+            <element signature="e#30922#33991#0" expanded="false" />
+            <element signature="e#34051#34413#0" expanded="false" />
+            <element signature="e#34481#35560#0" expanded="false" />
+            <element signature="e#35649#37777#0" expanded="false" />
+            <element signature="e#37875#40884#0" expanded="false" />
+            <element signature="e#40966#43434#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/deadstock.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/exclucity.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/Shop-Nice-Kicks.out">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/MonitorSites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4695">
+          <caret line="318" column="125" lean-forward="false" selection-start-line="318" selection-start-column="125" selection-end-line="318" selection-end-column="125" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/Shopify.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="52" column="30" lean-forward="false" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="e#3165#3527#0" expanded="false" />
+            <element signature="e#3595#4674#0" expanded="false" />
+            <element signature="e#4763#6891#0" expanded="false" />
+            <element signature="e#6989#10050#0" expanded="false" />
+            <element signature="e#10132#12586#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Xeno/Test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2220">
+          <caret line="148" column="12" lean-forward="false" selection-start-line="148" selection-start-column="12" selection-end-line="148" selection-end-column="12" />
+          <folding>
+            <element signature="e#1#12#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,132 @@
+from threading import Thread
+from multiprocessing import Process
+
+from StockPrice import StockPriceMonitor
+import requests
+
+try :
+    urllib3
+    urllib3.disable_warnings()
+except :
+    pass
+
+from requests.packages.urllib3.exceptions import InsecureRequestWarning
+requests.packages.urllib3.disable_warnings(InsecureRequestWarning)
+
+
+class cook(StockPriceMonitor):
+
+    def tst(self):
+        Thread(target = self.stockX, args = ("https://stockx.com/api/products/0f4c80a1-50d7-4572-876c-7a740b264848/activity?state=480", "Adidas Yeezy Boost 350 V2 Cream White Infant (I) : BB6373")).start()
+    
+    def stock(self):
+
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/246be05c-98c2-4c6f-b6ca-bf3cb86bf337/activity?state=480", "Air Force 1 Downtown Acronym Black White : 649941-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/f3f603f0-e1c0-48d1-9aad-206b00351e1b/activity?state=480", "Adidas Yeezy Boost 350 V2 Core Black White : BY1604")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/bbd909df-d5d4-41a3-8bf8-3c520f71146a/activity?state=480", "Adidas Yeezy Boost 350 V2 Black Red Infant (I) : BB6372")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/49c52f79-b1c5-4200-9792-b9d55f67a76f/activity?state=480", "Adidas Yeezy Boost 350 V2 Cream White : CP9366")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e98af13e-b3bd-45c0-86a8-0fea59443c2e/activity?state=480", "Adidas Yeezy Boost 750 Light Grey Glow In The Dark : BB1840")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/78b82cbf-0337-4eac-b5a0-8c9fbade1941/activity?state=480", "Adidas Yeezy Boost 350 Pirate Black (2016) : BB5350")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/2b07c172-9746-47f8-8a6f-5d0d8c21cf04/activity?state=480", "Adidas Yeezy Boost 350 Pirate Black Infant (I) : BB5355")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/185ecb6f-2402-467c-8db4-c846bf8cdb7a/activity?state=480", "Adidas Yeezy Boost 350 V2 Black Red : CP9652")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e90e1888-61f0-4681-8379-a4706e491235/activity?state=480", "Adidas Yeezy Boost 350 V2 Zebra : CP9654")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/aeced7db-2d30-485e-ab70-3220ff5a613c/activity?state=480", "Adidas Yeezy Boost 750 Light Brown Gum (Chocolate) : BY2456")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/02249161-b558-4512-b065-ffb714a7b4a7/activity?state=480", "Adidas Yeezy Boost 350 V2 Core Black Copper : BY1605")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/56d3aa06-6a91-495a-91e5-f07974c1b111/activity?state=480", "Adidas Yeezy Boost 350 Oxford Tan : AQ2661")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/0f4c80a1-50d7-4572-876c-7a740b264848/activity?state=480", "Adidas Yeezy Boost 350 V2 Cream White Infant (I) : BB6373")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/6cbcb440-65e0-4749-b2fe-bb643b443f0f/activity?state=480", "Adidas Yeezy Boost 350 Moonrock : AQ2660")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/4ad379b3-97a5-4e10-905e-efe7f7739988/activity?state=480", "Adidas Yeezy Boost 350 Turtledove : AQ4832")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d4ecb6b9-4595-4d17-90fc-3d791fb403c2/activity?state=480", "Adidas Yeezy Boost 750 Triple Black : BB1839")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/97fcc96e-c930-42c5-a03a-76616e643e98/activity?state=480", "Adidas Yeezy Boost 350 Pirate Black (2015) : AQ2659")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/ef63b9c9-6102-4d4b-bce5-1b1a8b4cbce1/activity?state=480", "Adidas Yeezy Boost 350 V2 Core Black Red : BY9612")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/cc3f95f8-899c-4a97-a9ea-6e375385381b/activity?state=480", "Adidas Yeezy Boost 350 V2 Beluga : BB1826")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/70ef4a1f-22bb-4555-951c-901c53f43220/activity?state=480", "Adidas Yeezy Boost 750 OG Light Brown : B35309")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e90e1888-61f0-4681-8379-a4706e491235/activity?state=480", "Adidas Yeezy Boost 350 V2 Zebra : CP9654")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/22762378-ab0c-4a64-a459-2961f818b465/activity?state=480", "Adidas Yeezy 350 Cleat Turtledove : B42410")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/9d09da66-d100-45ed-8aac-66fdce76c9ca/activity?state=480", "Adidas Ultra Boost Mid Ronnie Fieg : BY2592")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/61c2080f-5d6f-4bc8-8090-0c88cbd9f328/activity?state=480", "Adidas NMD Pharrell HU Human Race Yellow : BB0619")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/35f05707-0aa0-4a98-aa81-de703cf46d20/activity?state=480", "Adidas Tennis HU Pharrell White Yellow : BY2674")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/c16c9680-9f53-49dd-9d88-5c2a1b1a04e4/activity?state=480", "Adidas Tennis HU Pharrell White Green : BA7828")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/f7174a8f-4040-49ba-a41d-5e079c282475/activity?state=480", "Adidas NMD Pharrell HU Human Species Black : BB3068")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/636193cb-c995-4d01-aeef-cf15f93a78ed/activity?state=480", "Adidas NMD Pharrell HU Hue Man Tangerine : BB3070")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/bf38a7c3-3026-44c3-ab4f-51ceca957b74/activity?state=480", "Adidas NMD Pharrell HU Green : BB0620")).start()
+
+        '''
+        Thread(target = self.stockX, args = ("https://stockx.com/api/products/22ff453c-395c-46ee-bda9-69035890da66/activity?state=480", "Adidas Ultra Boost Uncaged Triple Black : BB4679")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/a51561a1-ec03-47b2-9cdc-82b5b12f6771/activity?state=480", "Jordan 1 Retro Royal (2017) : 555088-007")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d7921c92-1d0f-4536-ab13-bb7cddd6cb19/activity?state=480", "Adidas Ultra Boost Naked Waves Pack : BB1141")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/8ff3610c-a6b2-4d26-87c0-6a0756299449/activity?state=480", "Adidas Ultra Boost 3.0 Triple Black : BA8920")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/30ce85b8-0464-44fb-8f0b-7a560d922543/activity?state=480", "Adidas PureControl Ultra Boost Triple Black : BY9088")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/b36ae9bc-b8a5-42ce-b671-a6b218769bc4/activity?state=480", "Adidas Ultra Boost Triple Black : BB4677")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/22ff453c-395c-46ee-bda9-69035890da66/activity?state=480", "Adidas Ultra Boost Uncaged Triple Black : BB4679")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/a9d2acd3-d206-42e7-b379-bbd95a220c86/activity?state=480", "Adidas Ultra Boost Uncaged Triple Red : BB4678")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d1620032-62b9-4d60-b4af-985e4737b881/activity?state=480", "Air Max 1 Atmos Elephant (2017) : 908366-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/8c301aa2-88d2-416f-af8f-65337c4be6c0/activity?state=480", "Air Max 1 Master : 910772-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/17d54a8f-7360-4688-bd56-10e20ae83cf5/activity?state=480", "Jordan 1 Retro Bred (2016) : 555088-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e3bf4628-36c8-48e2-84ed-ab57c44d530c/activity?state=480", "Vans Sk8-Hi Anti Social Social Club Get Weird()")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/4e4f1740-61d6-4030-8e0f-b194f46c31c5/activity?state=480", "Vans Authentic Anti Social Social Club Get Weird()")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/378ab25e-19e2-4ba5-89a4-7ff3de81765c/activity?state=480", "Air Force 1 Low Supreme Comme des Garcons Shirt()")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/cbfc0f19-2432-4eea-b215-b16562d87853/activity?state=480", "Adidas Pure Boost Wish Sneakerboy Jellyfish : S80981")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/9bdd8964-1b18-40cd-a2b5-659a519a0953/activity?state=480", "Adidas Ultra Boost Parley Night Navy : BB4762")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/bd02e11f-a87a-418d-bc41-3c57294c0a0d/activity?state=480", "Adidas Ultra Boost Uncaged Parley : BB4073")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/ded1f431-dde7-4ab2-a145-c0231e3fd78c/activity?state=480", "Adidas Ultra Boost Uncaged Parley Legend Blue : BY3057")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/0b14fd9e-f1d7-4d3d-af84-793c1f277db6/activity?state=480", "Adidas Climacool Wish Sneakerboy Jellyfish : BY3053")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/aa070a78-ecbc-471e-9354-03e2777f8a58/activity?state=480", "Adidas Ultra Boost Uncaged Parley For The Oceans : BY2470")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/c9f46eb6-e3a4-439b-bac7-72e8ff028bba/activity?state=480", "Adidas Ultra Boost X Parley Core Blue (W) : BB1978")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/6bb85222-d303-4c6c-afae-5271261fb25b/activity?state=480", "Adidas Ultra Boost X Parley Stella McCartney Chalk White (W)")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/8c2b96b5-426a-4c40-8ba8-ba835d85401b/activity?state=480", "Air Force 1 Downtown Acronym Black Olive : 649941-003")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/c4921b66-5994-4cfa-a416-dc24cb4b6993/activity?state=480", "Adidas Ultra Boost 3.0 Tech Rust")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/5ab89a07-21f6-42b9-91ca-ca5ab5e4b3f7/activity?state=480", "Nike Flyknit Racer Be True (2017)")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/cc371bc9-1198-4fbd-ab3c-c5849e913d2d/activity?state=480", "Air Force 1 Downtown Acronym Black Crimson : 649941-006")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/246be05c-98c2-4c6f-b6ca-bf3cb86bf337/activity?state=480", "Air Force 1 Downtown Acronym Black White : 649941-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/f3f603f0-e1c0-48d1-9aad-206b00351e1b/activity?state=480", "Adidas Yeezy Boost 350 V2 Core Black White : BY1604")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/bbd909df-d5d4-41a3-8bf8-3c520f71146a/activity?state=480", "Adidas Yeezy Boost 350 V2 Black Red Infant (I) : BB6372")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/49c52f79-b1c5-4200-9792-b9d55f67a76f/activity?state=480", "Adidas Yeezy Boost 350 V2 Cream White : CP9366")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e98af13e-b3bd-45c0-86a8-0fea59443c2e/activity?state=480", "Adidas Yeezy Boost 750 Light Grey Glow In The Dark : BB1840")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/78b82cbf-0337-4eac-b5a0-8c9fbade1941/activity?state=480", "Adidas Yeezy Boost 350 Pirate Black (2016) : BB5350")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/2b07c172-9746-47f8-8a6f-5d0d8c21cf04/activity?state=480", "Adidas Yeezy Boost 350 Pirate Black Infant (I) : BB5355")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/185ecb6f-2402-467c-8db4-c846bf8cdb7a/activity?state=480", "Adidas Yeezy Boost 350 V2 Black Red : CP9652")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e90e1888-61f0-4681-8379-a4706e491235/activity?state=480", "Adidas Yeezy Boost 350 V2 Zebra : CP9654")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/aeced7db-2d30-485e-ab70-3220ff5a613c/activity?state=480", "Adidas Yeezy Boost 750 Light Brown Gum (Chocolate) : BY2456")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/02249161-b558-4512-b065-ffb714a7b4a7/activity?state=480", "Adidas Yeezy Boost 350 V2 Core Black Copper : BY1605")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/56d3aa06-6a91-495a-91e5-f07974c1b111/activity?state=480", "Adidas Yeezy Boost 350 Oxford Tan : AQ2661")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/0f4c80a1-50d7-4572-876c-7a740b264848/activity?state=480", "Adidas Yeezy Boost 350 V2 Cream White Infant (I) : BB6373")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/6cbcb440-65e0-4749-b2fe-bb643b443f0f/activity?state=480", "Adidas Yeezy Boost 350 Moonrock : AQ2660")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/4ad379b3-97a5-4e10-905e-efe7f7739988/activity?state=480", "Adidas Yeezy Boost 350 Turtledove : AQ4832")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d4ecb6b9-4595-4d17-90fc-3d791fb403c2/activity?state=480", "Adidas Yeezy Boost 750 Triple Black : BB1839")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/97fcc96e-c930-42c5-a03a-76616e643e98/activity?state=480", "Adidas Yeezy Boost 350 Pirate Black (2015) : AQ2659")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/ef63b9c9-6102-4d4b-bce5-1b1a8b4cbce1/activity?state=480", "Adidas Yeezy Boost 350 V2 Core Black Red : BY9612")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/cc3f95f8-899c-4a97-a9ea-6e375385381b/activity?state=480", "Adidas Yeezy Boost 350 V2 Beluga : BB1826")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/70ef4a1f-22bb-4555-951c-901c53f43220/activity?state=480", "Adidas Yeezy Boost 750 OG Light Brown : B35309")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/3f3c6330-3f5b-476c-83ad-5fb157981460/activity?state=480", "Adidas Copa Ultra Boost Kith Cobra : CM7895")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/af93b0be-aed9-4945-8666-c3e77dc7d2e4/activity?state=480", "Adidas PureControl Ultra Boost Kith Vapor Pink : CM7890")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/e90e1888-61f0-4681-8379-a4706e491235/activity?state=480", "Adidas Yeezy Boost 350 V2 Zebra : CP9654")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/22762378-ab0c-4a64-a459-2961f818b465/activity?state=480", "Adidas Yeezy 350 Cleat Turtledove : B42410")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/9d09da66-d100-45ed-8aac-66fdce76c9ca/activity?state=480", "Adidas Ultra Boost Mid Ronnie Fieg : BY2592")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/61c2080f-5d6f-4bc8-8090-0c88cbd9f328/activity?state=480", "Adidas NMD Pharrell HU Human Race Yellow : BB0619")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/35f05707-0aa0-4a98-aa81-de703cf46d20/activity?state=480", "Adidas Tennis HU Pharrell White Yellow : BY2674")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/c16c9680-9f53-49dd-9d88-5c2a1b1a04e4/activity?state=480", "Adidas Tennis HU Pharrell White Green : BA7828")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/f7174a8f-4040-49ba-a41d-5e079c282475/activity?state=480", "Adidas NMD Pharrell HU Human Species Black : BB3068")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/7be286d9-b2d8-41d4-aafd-af1305b7df49/activity?state=480", "Adidas Yeezy Boost 350 Turtledove Infant (I) : BB5354")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/636193cb-c995-4d01-aeef-cf15f93a78ed/activity?state=480", "Adidas NMD Pharrell HU Hue Man Tangerine : BB3070")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/bf38a7c3-3026-44c3-ab4f-51ceca957b74/activity?state=480", "Adidas NMD Pharrell HU Green : BB0620")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/15896d80-858b-4536-995a-0796e04284a3/activity?state=480", "Air Max 98 Supreme Varsity Red : 844694-600")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/1e600859-fc6b-4312-924f-dec239f83018/activity?state=480", "Adidas Ultra Boost Uncaged Haven Triple Black : BY2638")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d2947a8a-55a1-4f19-977b-3ac1abe359d7/activity?state=480", "Air More Uptempo Supreme Suptempo Red : 902290-600")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d0d3beba-a26f-4262-b05b-5f42e19ef9b3/activity?state=480", "Adidas NMD Pharrell HU Human Race Scarlet : BB0616")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/91e11d75-4f18-4683-b55b-c539b9738d36/activity?state=480", "Air Max 97 Silver Bullet (2016/2017) : 884421-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/d47e0490-1df7-46ba-9e53-82d291e6f5a2/activity?state=480", "Air Max 98 Supreme Obsidian : 844694-400")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/19bc3b0b-6a8d-4db2-88f2-1aebc69db05a/activity?state=480", "Air More Uptempo Supreme Suptempo Black : 902290-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/cebe3a63-d21b-45a6-9784-3a94fa6cffcb/activity?state=480", "Air More Uptempo Supreme Suptempo Gold : 902290-700")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/5cbffee9-b125-42f6-85e6-547933b6340b/activity?state=480", "Air Max 97 Metallic Gold (2017) : 884421-700")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/a103b509-c739-460e-b853-03dd80c35128/activity?state=480", "Air Max 98 Supreme Snakeskin : 844694-100")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/0c44a04c-11f1-447e-8f79-34b6696c8175/activity?state=480", "Adidas NMD Pharrell HU Human Being Sharp Blue : BB0618")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/ac08fecb-9b90-4702-b78b-f7c9975ee305/activity?state=480", "Adidas EQT Support ADV Overkill Coat Of Arms : BY2939")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/b0491a82-2420-4705-aefb-a1c19b98319b/activity?state=480", "Adidas EQT Support Future Overkill Coat Of Arms : BY2913")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/686d2ec9-22c8-4f86-a713-9c6225173390/activity?state=480", "Air Max 98 Supreme Black : 844694-001")).start()
+        Process(target = self.stockX, args = ("https://stockx.com/api/products/07447505-bec2-4b38-9f46-af513d30bd0b/activity?state=480", "Jordan 1 Retro High Wings : AA2887-035")).start()
+        '''
+
+#cook().stock()
+cook().tst()
+
